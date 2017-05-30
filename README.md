@@ -1,10 +1,10 @@
 # IRtoRokuBridge
-Converts IR codes to Roku API commands to allow the use of IR universal remotes w/ a Roku Stick
+Uses an ESP8266 to convert IR codes to Roku API commands to allow the use of IR universal remotes w/ a Roku Stick
 
 Allows you to use a universal IR based remote (ex Harmony) to control a Roku stick so you can use a single remote for everything.
 (Roku Sticks use some sort of RF or bluetooth so can't be controlled by a classic IR only remote)
-This also has direct channel activation which I use via customized buttons in the Watch Roku activity programmed in my Harmony 550
-This gives you a button on the screen labeled Syfy (for example) which directly kicks off that app.
+This also has direct channel activation which I use via customized Remote buttons in the Watch Roku activity programmed in my Harmony 550
+This gives you a button on the screen labeled (for example) Syfy which directly runs that app/channel.
  
 To customize:
  1) Replace the IR reciever pin with yours - I use a nodemcu device with IR reciever and LED attached to D5 (Use Vin/5v for power for better range)
