@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/5248605/26999629-1feb274c-4d64-11e7-8383-fce992335fc0.png)
 # IRtoRokuBridge
 Uses an ESP8266 to convert IR codes to Roku API commands to allow the use of IR universal remotes w/ a Roku Stick
 
